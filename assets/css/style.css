@@ -1808,8 +1808,8 @@ color: #000000;
 .steps-odd ul{
   padding-right: 30px;
   padding-left: 90px;
-  font-size: 16px;
-  line-height: 19px;
+  font-size: 15px;
+  line-height: 17px;
 }
 .step-single-container-02{
   width: 350px;
@@ -1849,8 +1849,8 @@ color: #000000;
 .steps-even ul{
   padding-left: 45px;
   padding-right: 40px;
-  font-size: 16px;
-  line-height: 19px;
+  font-size: 15px;
+  line-height: 17px;
 }
 
 }
